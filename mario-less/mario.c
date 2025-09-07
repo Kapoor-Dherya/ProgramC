@@ -18,4 +18,3 @@ int main(){
     }
     return 0;
 }
-//Don't know how to check for char, strings, or only Enter :(
